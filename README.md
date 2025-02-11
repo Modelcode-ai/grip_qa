@@ -1,4 +1,4 @@
-## Grip
+## Grip Questions/Answers
 Grip is a GitHub Readme Instant Preview.
 
 This repo contain question and answer pairs in markdown files that are related to the Grip repo. 
